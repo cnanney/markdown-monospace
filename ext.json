@@ -3,16 +3,16 @@ metatype: json
 ---
 
 {
-  "identifier": "io.github.danielnetop.markdown-monospace",
+  "identifier": "io.github.cnanney.markdown-monospace",
   "name": "Markdown Monospace",
   "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.2.0",
   "description": "Monospace font for Standard Notes markdown editors",
-  "url": "https://danielnetop.github.io/markdown-monospace/main.css",
-  "download_url": "https://github.com/DanielNetoP/markdown-monospace/archive/refs/tags/1.2.0.zip",
-  "latest_url": "https://danielnetop.github.io/markdown-monospace/ext.json",
-  "marketing_url": "https://github.com/DanielNetoP/markdown-monospace",
-  "thumbnail_url": "https://danielnetop.github.io/markdown-monospace/examples/preview.png",
+  "url": "https://cnanney.github.io/markdown-monospace/main.css",
+  "download_url": "https://github.com/cnanney/markdown-monospace/archive/refs/tags/1.2.0.zip",
+  "latest_url": "https://cnanney.github.io/markdown-monospace/ext.json",
+  "marketing_url": "https://github.com/cnanney/markdown-monospace",
+  "thumbnail_url": "https://cnanney.github.io/markdown-monospace/examples/preview.png",
   "layerable": true
 }
